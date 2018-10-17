@@ -1,0 +1,23 @@
+{
+  "name": "adriaticbets-chatbot-built-using-node-js-master",
+  "version": "1.0.0",
+  "description": "A Facebook chatbot for adriaticbets FB page that's built with Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^10.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikola0803/adriaticbets-chatbot-built-using-NODE-JS.git"
+  },
+  "author": "Nikola Zivkovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nikola0803/adriaticbets-chatbot-built-using-NODE-JS/issues"
+  },
+  "homepage": "https://github.com/Nikola0803/adriaticbets-chatbot-built-using-NODE-JS#readme"
+}
