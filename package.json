@@ -1,7 +1,7 @@
 {
-  "name": "nis-ekspress-timetable-bot",
+  "name": "adriaticbets-chatbot-built-using-NODE-JS",
   "version": "1.0.0",
-  "description": "A timetable chatbot",
+  "description": "A chatbot built for Adriatcibets website",
   "main": "index.js",
   "dependencies": {
     "axios": "^0.17.1",
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dusski/nis-ekspress-timetable-bot.git"
+    "url": "git+https://github.com/Nikola0803/adriaticbets-chatbot-built-using-NODE-JS"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dusski/nis-ekspress-timetable-bot/issues"
+    "url": "https://github.com/Nikola0803/adriaticbets-chatbot-built-using-NODE-JS/issues"
   },
-  "homepage": "https://github.com/dusski/nis-ekspress-timetable-bot#readme"
+  "homepage": "https://github.com/Nikola0803/adriaticbets-chatbot-built-using-NODE-JS#readme"
 }
